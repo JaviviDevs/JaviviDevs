@@ -26,7 +26,7 @@ En el tercer año de carrera, me especialicé en la rama de TI (Tecnología de l
 </br>
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=CSS3&logoColor=blue&labelColor=white&color=blue)
 ![mySQL](https://img.shields.io/badge/mySQL-orange?logo=mySQL&logoColor=orange&labelColor=white&color=orange)
-![MongoDB](https://img.shields.io/badge/mySQL-geen?logo=mongoDB&logoColor=green&labelColor=white&color=green)
+![MongoDB](https://img.shields.io/badge/mongoDB-geen?logo=mongoDB&logoColor=green&labelColor=white&color=green)
 
 ## Estoy aprendiendo actualmente:
 ![PyQt5](https://img.shields.io/badge/PyQt5-geen?logo=Qt&logoColor=green&labelColor=white&color=green)
