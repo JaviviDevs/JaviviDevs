@@ -9,7 +9,7 @@ En el tercer año de carrera, me especialicé en la rama de TI (Tecnología de l
 ## Skills
 ![Static Badge](https://img.shields.io/badge/POO-blue)
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-red)
-![Django](https://img.shields.io/badge/%20%20Django-green?logo=Django&logoColor=green&labelColor=white))
+![Django](https://img.shields.io/badge/%20%20Django-green?logo=Django&logoColor=green&labelColor=white)
 </br>
 ![Bootstrap](https://img.shields.io/badge/%20%20Bootstrap-8967BB?logo=bootstrap&labelColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-red?logo=Jinja&logoColor=red&labelColor=white&color=red)
