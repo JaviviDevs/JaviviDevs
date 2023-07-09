@@ -10,6 +10,7 @@ En el tercer año de carrera, me especialicé en la rama de TI (Tecnología de l
 ![Static Badge](https://img.shields.io/badge/POO-blue)
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-red)
 ![Django](https://img.shields.io/badge/%20%20Django-green?logo=Django&logoColor=green&labelColor=white))
+</br>
 ![Bootstrap](https://img.shields.io/badge/%20%20Bootstrap-8967BB?logo=bootstrap&labelColor=white)
 ![Jinja2](https://img.shields.io/badge/Jinja2-red?logo=Jinja&logoColor=red&labelColor=white&color=red)
 ![OpenCV](https://img.shields.io/badge/OpenCV-green?logo=openCV&logoColor=green&labelColor=white&color=green)
@@ -18,9 +19,11 @@ En el tercer año de carrera, me especialicé en la rama de TI (Tecnología de l
 ![C](https://img.shields.io/badge/C%23-lightblue?logo=C&logoColor=lightblue&labelColor=white&color=lightblue)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=C%2B%2B&logoColor=blue&labelColor=white&color=blue)
 ![Java](https://img.shields.io/badge/Java-orange)
+</br>
 ![python](https://img.shields.io/badge/python-yellow?logo=python&logoColor=yellow&labelColor=white&color=yellow)
 ![HTML5](https://img.shields.io/badge/HTML5-red?logo=HTML5&logoColor=red&labelColor=white&color=red)
 ![PHP](https://img.shields.io/badge/PHP-blue?logo=PHP&logoColor=blue&labelColor=white&color=blue)
+</br>
 ![CSS](https://img.shields.io/badge/CSS3-blue?logo=CSS3&logoColor=blue&labelColor=white&color=blue)
 ![mySQL](https://img.shields.io/badge/mySQL-orange?logo=mySQL&logoColor=orange&labelColor=white&color=orange)
 ![MongoDB](https://img.shields.io/badge/mySQL-geen?logo=mongoDB&logoColor=green&labelColor=white&color=green)
